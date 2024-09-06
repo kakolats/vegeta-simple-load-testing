@@ -1,0 +1,2 @@
+GET https://66da5490f47a05d55be48e7c.mockapi.io/apitest/v1/comment
+GET https://66da5490f47a05d55be48e7c.mockapi.io/apitest/v1/user

@@ -1,0 +1,7 @@
+POST https://66da5490f47a05d55be48e7c.mockapi.io/apitest/v1/comment
+Content-Type: application/json
+@body_comment.json
+
+POST https://66da5490f47a05d55be48e7c.mockapi.io/apitest/v1/user
+Content-Type: application/json
+@body_user.json
